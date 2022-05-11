@@ -29,9 +29,9 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="Visual Studio Code" alt="Visual Studio Code" width="40" height="40"/>&nbsp;
 
 ### :woman_technologist: How to reach me : 
-[![Gmail Badge](https://img.shields.io/badge/-skovi196@gmail.com-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:skovi196@gmail.com)](mailto:skovi196@gmail.com) 
+[![Gmail Badge](https://img.shields.io/badge/-skovi196@gmail.com-c14438?style=social&logo=Gmail&logoColor=red&link=skovi196@gmail.com)](skovi196@gmail.com) 
 [![Telegram Badge](https://img.shields.io/badge/-skovi196-c14438?style=social&logo=Telegram&logoColor=red&link=https://t.me/skovi196)](https://t.me/skovi196)
-[![Instagram Badge](https://img.shields.io/badge/-sko.v.i-c14438?style=social&logo=Instagram&logoColor=red&link=mailto:https://www.instagram.com/sko.v.i/)](mailto:https://www.instagram.com/sko.v.i/)
+[![Instagram Badge](https://img.shields.io/badge/-sko.v.i-c14438?style=social&logo=Instagram&logoColor=red&link=https://www.instagram.com/sko.v.i/)](https://www.instagram.com/sko.v.i/)
 
 <!-- TODO-IST:START -->
 <!-- TODO-IST:END -->

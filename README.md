@@ -30,7 +30,7 @@
 
 ### :woman_technologist: How to reach me : 
 [![Gmail Badge](https://img.shields.io/badge/-skovi196@gmail.com-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:skovi196@gmail.com)](mailto:skovi196@gmail.com) 
-[![Telegram Badge](https://img.shields.io/badge/-skovi196-c14438?style=social&logo=Telegram&logoColor=red&link=mailto:https://t.me/skovi196)](mailto:https://t.me/skovi196)
+[![Telegram Badge](https://img.shields.io/badge/-skovi196-c14438?style=social&logo=Telegram&logoColor=red&link=https://t.me/skovi196)](https://t.me/skovi196)
 [![Instagram Badge](https://img.shields.io/badge/-sko.v.i-c14438?style=social&logo=Instagram&logoColor=red&link=mailto:https://www.instagram.com/sko.v.i/)](mailto:https://www.instagram.com/sko.v.i/)
 
 <!-- TODO-IST:START -->
